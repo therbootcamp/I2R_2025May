@@ -1,6 +1,6 @@
 ### R Skript zu "Data I/O"
-### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: August 2020
+### Kurs "Einführung in die Datenanalyse mit R"
+### Datum: Mai 2025
 ### Autor: The R Bootcamp
 
 

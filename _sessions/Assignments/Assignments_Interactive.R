@@ -1,6 +1,6 @@
 ### R Skript zu "Assignments"
-### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: August 2020
+### Kurs "Einführung in die Datenanalyse mit R"
+### Datum: Mai 2025
 ### Autor: The R Bootcamp
 
 
@@ -18,25 +18,25 @@ sieben_acht_neun = c(7, 8, 9)
 ### <- verändert Objekte ----------------------------
 
 # Ändert sich hier das Objekt?
-eins_zwei_drei + 10 
+eins_zwei_drei + 10
 
 # Ändert sich hier das Objekt?
-eins_zwei_drei_plus10 <- eins_zwei_drei + 10 
+eins_zwei_drei_plus10 <- eins_zwei_drei + 10
 
 # Was kommt hier raus
-was_ist_das <- eins_zwei_drei + vier_fünf_sechs 
+was_ist_das <- eins_zwei_drei + vier_fünf_sechs
 
 # Was kommt hier raus
-was_ist_das <- eins_zwei_drei + vier_fünf_sechs * sieben_acht_neun 
+was_ist_das <- eins_zwei_drei + vier_fünf_sechs * sieben_acht_neun
 
 # Was steckt hinter dem Objekt
-was_ist_das 
+was_ist_das
 
 ### Objekt <- Funktion ----------------------------
 
 # Wo ist das Objekt? Und wo die Funktion?
-eins_zwei_drei + 10 
+eins_zwei_drei + 10
 
 # Wo ist das Objekt? Und wo die Funktion?
-eins_zwei_drei 
+eins_zwei_drei
 

@@ -1,6 +1,6 @@
 ### R Skript zu "Funktionen"
-### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: Februar 2020
+### Kurs "Einführung in die Datenanalyse mit R"
+### Datum: Mai 2025
 ### Autor: The R Bootcamp
 
 
@@ -13,7 +13,7 @@
 ### Funktionen haben help files ------------------------------------------------
 
 # Um zu lernen wie eine Funktion funktioniert, können wir das help file aufrufen.
-# Schaue dir das help file der sum() Funktion an. Verwende hierzu das Fragezeichen 
+# Schaue dir das help file der sum() Funktion an. Verwende hierzu das Fragezeichen
 # ? und dann den Namen der Funktion.
 
 # Welches sind die wichtigsten Abschnitte eines help files

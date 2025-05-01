@@ -1,6 +1,6 @@
 ### R Skript zu "Assignments"
-### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: August 2020
+### Kurs "Einführung in die Datenanalyse mit R"
+### Datum: Mai 2025
 ### Autor: The R Bootcamp
 
 
@@ -21,7 +21,7 @@ sieben_acht_neun = c(7, 8, 9) # Ja, = ist identisch mit <- (Pfeil nach links)
 eins_zwei_drei + 10 # Nein
 
 # Ändert sich hier das Objekt?
-eins_zwei_drei_plus10 <- eins_zwei_drei + 10 # Nein, ein neues wird kreiert 
+eins_zwei_drei_plus10 <- eins_zwei_drei + 10 # Nein, ein neues wird kreiert
 
 # Was kommt hier raus
 was_ist_das <- eins_zwei_drei + vier_fünf_sechs # schlicht die jeweils die Summe der Einträge an den verschiedenen Positionen

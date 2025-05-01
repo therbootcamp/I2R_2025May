@@ -8,8 +8,8 @@ Notes (aka todo):
 - [x] _sessions/Willkommen
 - [x] _sessions/WarumR
 - [x] _sessions/R(Studio)
-- [ ] _sessions/Assignments
-- [ ] _sessions/Funktionen
-- [ ] _sessions/DataIO
-- [ ] _sessions/Analyse
-- [ ] _sessions/NaechsteSchritte
+- [x] _sessions/Assignments (incl. interactive and solution)
+- [x] _sessions/Funktionen  (incl. interactive and solution)
+- [x] _sessions/DataIO (incl. interactive and solution)
+- [x] _sessions/Analyse (incl. interactive and solution)
+- [x] _sessions/NaechsteSchritte

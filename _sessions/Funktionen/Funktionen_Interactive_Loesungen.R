@@ -1,6 +1,6 @@
 ### R Skript zu "Funktionen"
-### Kurs "Einführung in die moderne Datenanalyse mit R"
-### Datum: Februar 2020
+### Kurs "Einführung in die Datenanalyse mit R"
+### Datum: Mai 2025
 ### Autor: The R Bootcamp
 
 
@@ -24,13 +24,13 @@ my_vec
 ?sum
 help(sum)
 
-# Welches sind die wichtigsten Abschnitte eines help files (Achtung subjektiv und 
+# Welches sind die wichtigsten Abschnitte eines help files (Achtung subjektiv und
 # vom jeweiligen help file abhängig).
 #> Description: Gibt einen kurzen Überblick über das Ziel der Funktion.
 #> Usage: Zeigt die Funktion mit allen Argumenten und, falls vorhanden, den
 #>        dazugehörigen Defaults.
 #> Arguments: Gibt eine genauere Beschreibung der Argumente.
-#> Details: Detailiertere Informationen über die Funktion und die Methoden, die 
+#> Details: Detailiertere Informationen über die Funktion und die Methoden, die
 #>          angewendet werden. Hier gibt es sehr grosse Unterschiede im Detailgrad.
 #>          Es kommt ganz auf den Autor der Funktion an, wie genau alles
 #>          beschrieben wird.
