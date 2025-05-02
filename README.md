@@ -1,8 +1,9 @@
 # Einführung in die Datenanalyse mit R
 
-Notes (aka todo):
+To Do:
 
 - [x] index.html
+- [x] update download-link for RStudio project folder
 - [x] installation.html
 - [x] activate github pages building from branch main / (root)
 - [x] _sessions/Willkommen
@@ -12,4 +13,5 @@ Notes (aka todo):
 - [x] _sessions/Funktionen  (incl. interactive and solution)
 - [x] _sessions/DataIO (incl. interactive and solution)
 - [x] _sessions/Analyse (incl. interactive and solution)
+- [x] update feedback form (link)
 - [x] _sessions/NaechsteSchritte
